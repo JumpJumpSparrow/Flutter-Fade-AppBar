@@ -1,4 +1,4 @@
-# Flutter-FadeAppBar
+# Flutter-Fade-AppBar
 Flutter，AppBar透明度随着滑动改变
 随着页面滑动，圆形按钮逐渐消失，返回按钮逐渐呈现，
 同时AppBar的透明度在整个过程中，是随着滑动距离线性变化的，
